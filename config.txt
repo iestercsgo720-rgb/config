@@ -1,2 +1,3 @@
 DRIVER=https://github.com/iestercsgo720-rgb/tempdriver/raw/main/spoofer_final.sys
 MAPPER=https://github.com/iestercsgo720-rgb/map/raw/main/cranium-mapper.exe
+MACBAT=https://github.com/iestercsgo720-rgb/mac/raw/main/mac.bat
