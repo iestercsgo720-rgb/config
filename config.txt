@@ -1,0 +1,2 @@
+DRIVER=https://files.catbox.moe/dax140.sys
+MAPPER=https://github.com/iestercsgo720-rgb/kdmap/raw/main/kdmapper_Release.exe
