@@ -1,3 +1,3 @@
 DRIVER=https://raw.githubusercontent.com/iestercsgo720-rgb/tempdriver/main/spoofer_final.sys
-MAPPER=https://raw.githubusercontent.com/iestercsgo720-rgb/kdmap/raw/main/kdmapper_Release.exe
+MAPPER=https://raw.githubusercontent.com/iestercsgo720-rgb/kdmap/main/kdmapper_Release.exe
 MACBAT=https://raw.githubusercontent.com/iestercsgo720-rgb/mac/main/mac.bat
