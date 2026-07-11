@@ -1,2 +1,2 @@
-DRIVER=https://files.catbox.moe/dax140.sys
+DRIVER=https://github.com/iestercsgo720-rgb/tempdriver/raw/main/spoofer_final.sys
 MAPPER=https://github.com/iestercsgo720-rgb/map/raw/main/cranium-mapper.exe
